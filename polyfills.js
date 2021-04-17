@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/ravig/Documents/Interview/Epsilon/challanges/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /Users/ravig/Documents/Interview/Epsilon/table-funcions/src/polyfills.ts */"hN/g");
 
 
 /***/ }),
